@@ -1,0 +1,5 @@
+AboutMe:
+	FullName:Larysa Mamont:
+	Age: 34;
+	Pets: 2;
+	Salary: 400.
