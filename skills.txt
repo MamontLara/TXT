@@ -1,0 +1,12 @@
+Skills:
+	Types of testing: Smoke, regression, functional, stress, end to end;
+	File types: TXT, JSON, XML, JS, PY;
+	Development methodologies: Scrum, Kanban;
+	Linux: Copying, creating, viewing, moving files on servers without a graphical interface;
+	Sniffer: Charles, Fiddler;
+	StressTesting: JMeter;
+	API: Postman;
+	SQL: CREATE, ALTER, SELECT, GROUP BY, JOIN;
+	Avtomation: Phyton;
+	VPN: How it works, why it is needed, how to use it, options for tools;
+	Dev tools: Google Chrome, FireFox.

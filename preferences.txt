@@ -1,0 +1,6 @@
+Preferences:
+	Favorite Movie: Harry Potter;
+	Favorite Series: Agatha Christie’s Poirot;
+	Favorite Food: Sweets; 
+	Favorite Season: Summer;
+	The country you would like to visit: Japan.
